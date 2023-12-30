@@ -35,4 +35,6 @@ each `anomalous/` folders should have atleast one (1) appropriate csv logs witho
 - `OpenHardwareMonitorLib.dll` is a dependency and must be present in the root. Can be downloaded [here](https://openhardwaremonitor.org/downloads/).
 - Create a `venv/` with python version >= 3.10.1, activate the virtual environment, then run `pip install -r requirements.txt`
 - All is setup and ready to run `main.py`
+## Diagnosis demo
+![demoGif](READMEassets/pcWizardGUIDemo.gif)
 
